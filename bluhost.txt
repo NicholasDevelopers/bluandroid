@@ -1,2 +1,2 @@
-proxy.bluproxy.web.id www.growtopia1.com
-proxy.bluproxy.web.id growtopia1.com
+38.240.51.70 www.growtopia1.com
+38.240.51.70 growtopia1.com
